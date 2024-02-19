@@ -1,0 +1,101 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 10px;
+  overflow: hidden;
+  background-color:black;
+  color: white;
+  width: 100%;
+  
+  
+}
+
+
+  
+  li {
+    float: right;
+    display: block;
+    color: white;
+    text-align:right;
+    padding: 14px 16px;
+    text-decoration: none;
+   
+    background-color: black;
+   
+  }
+  
+  .top1 {
+    font-family: Broadway;
+    font-size: 160px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 50px 50px 50px 50px;
+    padding: 50px 50px 50px 50px;
+    background-color: rgba(250, 250, 250, 0.8);
+
+}
+
+.cantainer{
+    display: flexbox;
+}
+.topP{
+    font-size: 20px;
+}
+.box{
+    width: auto;
+    font-family: Broadway;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 10px;
+    margin:auto;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 50px 50px 50px 50px;
+    background-color: rgba(250, 250, 250, 0.8);
+
+}
+
+.box1{
+    width: auto;
+    font-family: Broadway;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 10px;
+    margin:auto;
+    margin-left: 50px;
+    
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 50px 50px 50px 50px;
+    background-color: rgba(250, 250, 250, 0.8);
+
+}
+
+.box2{
+    width: auto;
+    font-family: Broadway;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 10px;
+    margin:auto;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 50px 50px 50px 50px;
+    background-color: rgba(250, 250, 250, 0.8);
+
+}
+
+.login-link {
+    color: white; /* text color when not hovered */
+    text-decoration: none; /* removes the underline */
+  }
+  
+  .login-link:hover {
+    color: green; /* text color when hovered */
+  }
+  
