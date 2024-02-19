@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "65caf5f870827e9fcf943b35"
+  },
+  "tool_id": "609cd44c19a287003e2fa36a",
+  "user_id": "609cd3a019a287003e2fa368",
+  "date": "2024-02-10T08:00:00Z",
+  "type": "borrow",
+  "return_date": null
+}]

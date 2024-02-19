@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "65c97fa8c2e2e36a64b1a4fc"
+  },
+  "name": "Hammer",
+  "quantity": 5,
+  "category": "Hand Tools",
+  "condition": "New",
+  "description": "A versatile tool used for driving nails, breaking objects apart, and other construction tasks."
+},
+{
+  "_id": {
+    "$oid": "65c9803fc2e2e36a64b1a4fe"
+  },
+  "name": "Cordless Power Drill",
+  "quantity": 3,
+  "category": "Power Tools",
+  "condition": "New",
+  "description": "A cordless drill powered by rechargeable batteries, used for drilling holes and driving screws."
+},
+{
+  "_id": {
+    "$oid": "65c98077c2e2e36a64b1a500"
+  },
+  "name": "Screwdriver",
+  "quantity": 10,
+  "category": "Hand Tools",
+  "condition": "Used",
+  "description": "A screwdriver with a cross-shaped tip, used to drive screws into various materials."
+},
+{
+  "_id": {
+    "$oid": "65c98097c2e2e36a64b1a502"
+  },
+  "name": "Adjustable Wrench Set",
+  "quantity": 10,
+  "category": "Hand Tools",
+  "condition": "New",
+  "description": "A set of adjustable wrenches in different sizes, used for gripping and turning nuts and bolts."
+},
+{
+  "_id": {
+    "$oid": "65caf11170827e9fcf943b1a"
+  },
+  "name": "Vernier Caliper",
+  "quantity": 5,
+  "category": "Measuring Instruments",
+  "condition": "New",
+  "description": "A precision measuring instrument used to accurately measure linear dimensions, such as the length, width, or thickness of an object. It consists of a main scale and a sliding Vernier scale that allows for precise readings to be taken with high accuracy. Commonly used in engineering, manufacturing, and scientific applications."
+},
+{
+  "_id": {
+    "$oid": "65caf15870827e9fcf943b1c"
+  },
+  "name": "Drill Chuck",
+  "quantity": 6,
+  "category": "Tool Accessories",
+  "condition": "New",
+  "description": "A device used to hold drill bits or other rotary tools securely in place while drilling or machining operations are performed."
+},
+{
+  "_id": {
+    "$oid": "65caf18070827e9fcf943b1e"
+  },
+  "name": "Hacksaw",
+  "quantity": 5,
+  "category": "Hand Tools",
+  "condition": "New",
+  "description": "A fine-toothed saw used for cutting metal or plastic, typically consisting of a frame with a blade held under tension."
+},
+{
+  "_id": {
+    "$oid": "65caf1f470827e9fcf943b20"
+  },
+  "name": "Scriber",
+  "quantity": 8,
+  "category": "Hand Tools",
+  "condition": "New",
+  "description": "A pointed tool used for marking or scoring lines on metal, wood, or other materials."
+},
+{
+  "_id": {
+    "$oid": "65caf21370827e9fcf943b22"
+  },
+  "name": "Flat Chisel",
+  "quantity": 8,
+  "category": "Hand Tools",
+  "condition": "New",
+  "description": "A cutting tool with a flat, beveled cutting edge, typically used for cutting, shaping, or carving materials such as metal or stone."
+},
+{
+  "_id": {
+    "$oid": "65caf23f70827e9fcf943b24"
+  },
+  "name": "Soldering Iron",
+  "quantity": 3,
+  "category": "Soldering Equipment",
+  "condition": "New",
+  "description": "A hand-held tool used for melting solder to join together metal components or wires in electronics or plumbing applications."
+},
+{
+  "_id": {
+    "$oid": "65caf43c70827e9fcf943b26"
+  },
+  "name": "Divider",
+  "quantity": 5,
+  "category": "Measuring Tools",
+  "condition": "New",
+  "description": "A precision measuring tool used to mark or transfer measurements between two points."
+},
+{
+  "_id": {
+    "$oid": "65caf47370827e9fcf943b28"
+  },
+  "name": "Micrometer",
+  "quantity": 5,
+  "category": "Measuring Tools",
+  "condition": "New",
+  "description": "A precision measuring instrument used for accurately measuring dimensions to a high degree of accuracy, typically in machining or engineering applications."
+},
+{
+  "_id": {
+    "$oid": "65caf4a870827e9fcf943b2a"
+  },
+  "name": "Mallet",
+  "quantity": 5,
+  "category": "Hand Tools",
+  "condition": "New",
+  "description": "A tool with a large, flat head used to strike or drive objects without damaging them, typically made of rubber, wood, or plastic."
+},
+{
+  "_id": {
+    "$oid": "65caf4f170827e9fcf943b2d"
+  },
+  "name": "Tinker Hammer",
+  "quantity": 4,
+  "category": "Hand Tools",
+  "condition": "New",
+  "description": "A small, lightweight hammer used for delicate or precision work, typically used by tinkers or hobbyists."
+}]
